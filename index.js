@@ -13,7 +13,7 @@ function makeGreen() {
 }
 
 // Regular
-console.log("hello");
+console.log("Hello");
 
 // Interpolated
 console.log("Hello, I am a %s string", "🤓"); // Could also use ES6 backticks
@@ -22,7 +22,7 @@ console.log("Hello, I am a %s string", "🤓"); // Could also use ES6 backticks
 console.log("%c I am some great text", "font-weight:bold"); // Any font styling can be applied here
 
 // warning!
-console.warn("Oh no Mr. Bill!");
+console.warn("Oh no, Mr. Bill!");
 
 // Error :|
 console.error(`💀`);
